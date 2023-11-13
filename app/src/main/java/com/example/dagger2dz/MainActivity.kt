@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     lateinit var myComponent: MyComponent
     lateinit var dogViewModel: DogViewModel
-
+    // ajkdsajlkdjksad;'askd//
     @Inject
     lateinit var dog: Dog
 
