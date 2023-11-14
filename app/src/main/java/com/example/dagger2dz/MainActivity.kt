@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     // ajkdsajlkdjksad;'askd//
     //a;lsdlksad;lasd
     @Inject
-    lateinit var dog: Dog
+    lateinit var dog1: Dog
 
     @Inject
     lateinit var dogViewModelFactory: DogViewModelFactory
